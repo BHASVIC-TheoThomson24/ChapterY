@@ -1,8 +1,17 @@
 # ninja log v6
 3	108	7507042254266409	CMakeFiles/ChapterY.dir/main.c.obj	43686935a2ef4f27
-5	96	7507049158202034	CMakeFiles/ChapterY.dir/Files.c.obj	1285cf65ce5e9664
 6	174	7507061526656816	CMakeFiles/ChapterY.dir/ReadFilesChar.c.obj	6314e262d6e87ff1
-3	258	7507066949186541	build.ninja	9e774c79317f09c9
-91	213	7507065024226016	ChapterY.exe	d21d88c2f55bf9
+5	96	7507049158202034	CMakeFiles/ChapterY.dir/Files.c.obj	1285cf65ce5e9664
+5	260	7508764554698727	build.ninja	9e774c79317f09c9
+108	230	7508756691112522	ChapterY.exe	c6c713ac9b9c7f12
 5	99	7507051311302665	CMakeFiles/ChapterY.dir/ReadFiles.c.obj	84c1f6764c2e2b88
+3	255	7508740760549126	CMakeFiles/ChapterY.dir/fscanf.c.obj	118b71930c7006ea
 3	87	7507065023345405	CMakeFiles/ChapterY.dir/ReadFilesString.c.obj	d7eadf6f5a31810
+6	107	7508756690098568	CMakeFiles/ChapterY.dir/fputs.c.obj	9ee0534648caaa79
+2	258	7508764554698727	build.ninja	9e774c79317f09c9
+3	107	7508764555100396	CMakeFiles/ChapterY.dir/fprintf.c.obj	3bddf0757b16084f
+108	362	7508764556145597	ChapterY.exe	44d828a93955d9a
+5	105	7508765212254612	CMakeFiles/ChapterY.dir/fprintf.c.obj	3bddf0757b16084f
+105	231	7508765213256369	ChapterY.exe	44d828a93955d9a
+7	110	7508765317161993	CMakeFiles/ChapterY.dir/fprintf.c.obj	3bddf0757b16084f
+111	260	7508765318197094	ChapterY.exe	44d828a93955d9a

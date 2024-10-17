@@ -3,4 +3,4 @@ project(ChapterY C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(ChapterY " fscanf.c")
+add_executable(ChapterY "fprintf.c")
